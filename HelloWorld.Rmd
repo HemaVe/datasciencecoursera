@@ -1,7 +1,0 @@
----
-title: "HelloWorld"
-author: "Hema"
-date: "March 4, 2019"
-output: pdf_document
----
-## This is a R markdown
